@@ -1,4 +1,4 @@
 <?php
 
-	echo Oi Github!
+	echo "Oi Github!";
 ?>
